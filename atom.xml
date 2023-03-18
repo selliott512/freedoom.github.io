@@ -5,7 +5,158 @@
   <link href="https://freedoom.github.io/" rel="self" />
   <id>https://freedoom.github.io/atom.xml</id>
   <author><name>Freedoom Project</name></author>
-  <updated>2019-10-10T01:22:22Z</updated>
+  <updated>2023-03-05T00:00:00Z</updated>
+  <entry>
+    <title>Freedoom 0.13.0 released</title>
+    <id>https://freedoom.github.io/#freedoom-0.13.0</id>
+    <updated>2023-05-13T00:00:00Z</updated>
+    <content type="html">
+      &lt;h2&gt;General&lt;/h2&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Completely vanilla compatible.
+            &lt;ul&gt;
+            &lt;li&gt;
+              &lt;p&gt;
+                Boom features removed.
+              &lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+              &lt;p&gt;
+                Hall of mirrors greatly reduced.
+              &lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+              &lt;p&gt;
+                Visplane overflows fixed.
+              &lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+              &lt;p&gt;
+                Some savegame buffer overflow errors remain.
+              &lt;/p&gt;
+            &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/p&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h2&gt;Levels&lt;/h2&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Relevant Eureka warnings fixed.
+          &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            New levels E1M9, E2M2, E2M3, E2M4, E2M7, E3M5, MAP07, MAP21 and MAP27.
+          &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Various level renames.
+          &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Numerous vanilla fixes and aesthetic modernizations.
+          &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Fixed and standardized secret exits.
+          &lt;/p&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h2&gt;Manual&lt;/h2&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            A Spanish manual.
+          &lt;/p&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h2&gt;Misc&lt;/h2&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Adds automatic labeling to pull requests.
+          &lt;/p&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h2&gt;Monsters&lt;/h2&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            New minigunner.
+          &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            The hatchling, which replaces the deadflare.
+          &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            The matribite, which replaces the summoner.
+          &lt;/p&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h2&gt;Music&lt;/h2&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            New music.
+          &lt;/p&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h2&gt;Sounds&lt;/h2&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            New boss brain sounds.
+          &lt;/p&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h2&gt;Visuals&lt;/h2&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Better color blind accommodation with keys and key indicators.
+          &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Numerous improvements to pickups, barrels and textures.
+          &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Improved kerning for menu text.
+          &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            New torches.
+          &lt;/p&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h2&gt;Weapons&lt;/h2&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Revised polaric energy weapon.
+          &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;p&gt;
+            Double-barreled shotgun flash timing bug fixed in built-in DeHackEd.
+          &lt;/p&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    </content>
+  </entry>
   <entry>
 	<title>Freedoom 0.12.0 released</title>
 	<id>https://freedoom.github.io/#_2019_10_10_freedoom_0_12_0_released</id>

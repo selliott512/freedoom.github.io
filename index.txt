@@ -15,6 +15,48 @@ For more information, see the link:about.html[What is Freedoom?] page.
 
 == Project News
 
+=== link:#freedoom-0.13.0[2023-03-05: Freedoom 0.13.0 released][[freedoom-0.13.0]]
+==== General
+  * Completely vanilla compatible.
+  ** Boom features removed.
+  ** Hall of mirrors greatly reduced.
+  ** Visplane overflows fixed.
+  ** Some savegame buffer overflow errors remain.
+
+==== Levels
+  * Relevant Eureka warnings fixed.
+  * New levels E1M9, E2M2, E2M3, E2M4, E2M7, E3M5, MAP07, MAP21 and MAP27.
+  * Various level renames.
+  * Numerous vanilla fixes and aesthetic modernizations.
+  * Fixed and standardized secret exits.
+
+==== Manual
+  * A Spanish manual.
+
+==== Misc
+  * Adds automatic labeling to pull requests.
+
+==== Monsters
+  * New minigunner.
+  * The hatchling, which replaces the deadflare.
+  * The matribite, which replaces the summoner.
+
+==== Music
+  * New music.
+
+==== Sounds
+  * New boss brain sounds.
+
+==== Visuals
+  * Better color blind accommodation with keys and key indicators.
+  * Numerous improvements to pickups, barrels and textures.
+  * Improved kerning for menu text.
+  * New torches.
+
+==== Weapons
+  * Revised polaric energy weapon.
+  * Double-barreled shotgun flash timing bug fixed in built-in DeHackEd.
+
 === link:#freedoom-0.12.1[2019-10-22: Freedoom 0.12.1 released][[freedoom-0.12.1]]
 ==== General
   * The HTML documentation (eg, +NEWS+ and +README+ files) are

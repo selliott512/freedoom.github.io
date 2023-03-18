@@ -9,6 +9,85 @@
         https://freedoom.github.io/favicon.ico
     </url>
     </image>
+    <item>
+        <title>2023-05-13: Freedoom 0.13.0 released</title>
+        <pubDate>05 Mar 2023</pubDate>
+        <link>https://freedoom.github.io/#freedoom-0.13.0</link>
+        <description>
+            > General
+            &lt;/p&gt;&lt;p&gt;
+            Completely vanilla compatible.
+            &lt;/p&gt;&lt;p&gt;
+             - Boom features removed.
+            &lt;/p&gt;&lt;p&gt;
+             - Hall of mirrors greatly reduced.
+            &lt;/p&gt;&lt;p&gt;
+             - Visplane overflows fixed.
+            &lt;/p&gt;&lt;p&gt;
+             - Some savegame buffer overflow errors remain.
+            &lt;/p&gt;&lt;p&gt;
+
+            > Levels
+            &lt;/p&gt;&lt;p&gt;
+            Relevant Eureka warnings fixed.
+            &lt;/p&gt;&lt;p&gt;
+            New levels E1M9, E2M2, E2M3, E2M4, E2M7, E3M5, MAP07, MAP21 and MAP27.
+            &lt;/p&gt;&lt;p&gt;
+            Various level renames.
+            &lt;/p&gt;&lt;p&gt;
+            Numerous vanilla fixes and aesthetic modernizations.
+            &lt;/p&gt;&lt;p&gt;
+            Fixed and standardized secret exits.
+            &lt;/p&gt;&lt;p&gt;
+
+            > Manual
+            &lt;/p&gt;&lt;p&gt;
+            A Spanish manual.
+            &lt;/p&gt;&lt;p&gt;
+
+            > Misc
+            &lt;/p&gt;&lt;p&gt;
+            Adds automatic labeling to pull requests.
+            &lt;/p&gt;&lt;p&gt;
+
+            > Monsters
+            &lt;/p&gt;&lt;p&gt;
+            New minigunner.
+            &lt;/p&gt;&lt;p&gt;
+            The hatchling, which replaces the deadflare.
+            &lt;/p&gt;&lt;p&gt;
+            The matribite, which replaces the summoner.
+            &lt;/p&gt;&lt;p&gt;
+
+            > Music
+            &lt;/p&gt;&lt;p&gt;
+            New music.
+            &lt;/p&gt;&lt;p&gt;
+
+            > Sounds
+            &lt;/p&gt;&lt;p&gt;
+            New boss brain sounds.
+            &lt;/p&gt;&lt;p&gt;
+
+            > Visuals
+            &lt;/p&gt;&lt;p&gt;
+            Better color blind accommodation with keys and key indicators.
+            &lt;/p&gt;&lt;p&gt;
+            Numerous improvements to pickups, barrels and textures.
+            &lt;/p&gt;&lt;p&gt;
+            Improved kerning for menu text.
+            &lt;/p&gt;&lt;p&gt;
+            New torches.
+            &lt;/p&gt;&lt;p&gt;
+
+            &lt;/p&gt;&lt;p&gt;
+            > Weapons
+            Revised polaric energy weapon.
+            &lt;/p&gt;&lt;p&gt;
+            Double-barreled shotgun flash timing bug fixed in built-in DeHackEd.
+            &lt;/p&gt;&lt;p&gt;
+        </description>
+    </item>
         <item>
         <title>2019-10-22: Freedoom 0.12.1 released</title>
         <pubDate>25 Jul 2022</pubDate>
